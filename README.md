@@ -1,2 +1,2 @@
-# servicenow_lms
-A ServiceNow native Learning Management System
+# ServiceNow Learning Management System (LMS)
+Description is coming soon
