@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Course</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Course</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-08 22:30:54</sys_created_on>
+        <sys_id>c256ba6f975a11102ff835dfe153aff9</sys_id>
+        <sys_name>Course</sys_name>
+        <sys_package display_value="LMS" source="x_803596_lms">937f62e7975a11102ff835dfe153af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">937f62e7975a11102ff835dfe153af1a</sys_scope>
+        <sys_update_name>sys_wizard_answer_c256ba6f975a11102ff835dfe153aff9</sys_update_name>
+        <table/>
+        <target_url>x_803596_lms_course.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

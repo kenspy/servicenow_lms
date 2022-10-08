@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0e56ba6f975a11102ff835dfe153afd4" extends="task" label="Courses" max_length="40" name="x_803596_lms_course" type="collection">
+        <element label="Thumbnail" max_length="40" name="thumbnail" type="user_image"/>
+        <element label="Title" max_length="100" name="title" type="string"/>
+        <element label="Video Preview" max_length="40" name="video_preview" type="video"/>
+    </element>
+</database>
