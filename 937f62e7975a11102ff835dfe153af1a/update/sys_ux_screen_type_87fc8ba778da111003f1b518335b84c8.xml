@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Order success</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-09 00:09:52</sys_created_on>
+        <sys_id>87fc8ba778da111003f1b518335b84c8</sys_id>
+        <sys_name>Order success</sys_name>
+        <sys_package display_value="LMS" source="x_803596_lms">937f62e7975a11102ff835dfe153af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">937f62e7975a11102ff835dfe153af1a</sys_scope>
+        <sys_update_name>sys_ux_screen_type_87fc8ba778da111003f1b518335b84c8</sys_update_name>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=87fc8ba778da111003f1b518335b84c8"/>
+</record_update>

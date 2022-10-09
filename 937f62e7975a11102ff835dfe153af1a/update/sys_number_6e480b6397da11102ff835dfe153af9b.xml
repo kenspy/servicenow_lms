@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_803596_lms_users">x_803596_lms_users</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CUS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-08 23:49:18</sys_created_on>
+        <sys_id>6e480b6397da11102ff835dfe153af9b</sys_id>
+        <sys_name>CUS</sys_name>
+        <sys_package display_value="LMS" source="x_803596_lms">937f62e7975a11102ff835dfe153af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">937f62e7975a11102ff835dfe153af1a</sys_scope>
+        <sys_update_name>sys_number_6e480b6397da11102ff835dfe153af9b</sys_update_name>
+    </sys_number>
+</record_update>

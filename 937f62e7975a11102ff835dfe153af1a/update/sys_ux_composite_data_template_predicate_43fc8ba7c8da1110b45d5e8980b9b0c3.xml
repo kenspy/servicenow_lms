@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>short_description,rating,topic,sys_view_count,article_type,category</field_list>
+        <name>Custom Portal Landing - Popular Articles Predicate</name>
+        <order/>
+        <predicate_bundle/>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-09 00:09:50</sys_created_on>
+        <sys_id>43fc8ba7c8da1110b45d5e8980b9b0c3</sys_id>
+        <sys_name>Custom Portal Landing - Popular Articles Predicate</sys_name>
+        <sys_package display_value="LMS" source="x_803596_lms">937f62e7975a11102ff835dfe153af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">937f62e7975a11102ff835dfe153af1a</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_43fc8ba7c8da1110b45d5e8980b9b0c3</sys_update_name>
+        <table>kb_knowledge</table>
+        <ux_template display_value="Custom Portal Landing - Popular Articles">47fc8ba7f3da1110f78fc1c44d9070c3</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

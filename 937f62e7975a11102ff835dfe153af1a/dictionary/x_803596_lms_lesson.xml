@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="e8a6b2af975a11102ff835dfe153af44" label="Lessons" max_length="40" name="x_803596_lms_lesson" type="collection">
+    <element audit="true" db_object_id="e8a6b2af975a11102ff835dfe153af44" label="Lessons" max_length="40" name="x_803596_lms_lesson" type="collection">
         <element label="Course" max_length="32" name="course" reference="x_803596_lms_course" type="reference"/>
-        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Description" max_length="4000" name="description" type="html"/>
         <element label="Duration" max_length="40" name="duration" type="integer"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>

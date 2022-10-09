@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">0ffc8ba75cda1110e228dd0993c158bd</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-09 00:09:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ffc8ba77fda1110f4b07dbf608b67bd</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="LMS" source="x_803596_lms">937f62e7975a11102ff835dfe153af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">937f62e7975a11102ff835dfe153af1a</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_4ffc8ba77fda1110f4b07dbf608b67bd</sys_update_name>
+        <theme display_value="Light Theme">c3fc8ba730da1110393e49dcfb46f7d0</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

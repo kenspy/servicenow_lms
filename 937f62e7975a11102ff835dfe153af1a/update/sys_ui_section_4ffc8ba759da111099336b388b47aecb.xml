@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="4ffc8ba759da111099336b388b47aecb" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_803596_lms">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-10-09 00:09:50</sys_created_on>
+            <sys_id>83fc8ba7c4da1110361cea903a29bdcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="03fc8ba795da1110143386ec7faea2cc">4ffc8ba759da111099336b388b47aecb</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-10-09 00:09:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-10-09 00:09:50</sys_created_on>
+            <sys_id>07fc8ba710da11101b75d19d4223d9cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="03fc8ba795da1110143386ec7faea2cc">4ffc8ba759da111099336b388b47aecb</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-10-09 00:09:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-10-09 00:09:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ffc8ba759da111099336b388b47aecb</sys_id>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LMS" source="x_803596_lms">937f62e7975a11102ff835dfe153af1a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LMS">937f62e7975a11102ff835dfe153af1a</sys_scope>
+            <sys_update_name>sys_ui_section_4ffc8ba759da111099336b388b47aecb</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_803596_lms)" name="custom_portal_approval_x_803596_lms">03fc8ba795da1110143386ec7faea2cc</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

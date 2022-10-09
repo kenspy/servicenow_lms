@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="5df93e63979a11102ff835dfe153afae" label="Users" max_length="40" name="x_803596_lms_users" type="collection">
+    <element audit="true" db_object_id="5df93e63979a11102ff835dfe153afae" label="Users" max_length="40" name="x_803596_lms_users" type="collection">
         <element label="About" max_length="4000" name="about" type="string"/>
-        <element label="First name" max_length="32" name="first_name" reference="sys_user" type="reference"/>
-        <element label="Last name" max_length="32" name="last_name" reference="sys_user" type="reference"/>
+        <element label="Course" max_length="32" name="course" reference="x_803596_lms_course" type="reference"/>
         <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <index name="index">
-            <element name="first_name"/>
+            <element name="course"/>
         </index>
         <index name="index2">
-            <element name="last_name"/>
-        </index>
-        <index name="index3">
             <element name="name"/>
         </index>
     </element>
